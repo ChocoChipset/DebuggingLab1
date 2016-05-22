@@ -21,8 +21,8 @@
 		C48F59541CF1E76700F6F0C1 /* NumberGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = C48F59531CF1E76700F6F0C1 /* NumberGenerator.m */; };
 		C48F59571CF1E8B900F6F0C1 /* Exercise4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C48F59561CF1E8B900F6F0C1 /* Exercise4ViewController.m */; };
 		C48F595A1CF22EF700F6F0C1 /* Exercise5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C48F59591CF22EF700F6F0C1 /* Exercise5ViewController.m */; };
-		C48F595C1CF230AA00F6F0C1 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C48F595B1CF230AA00F6F0C1 /* README.md */; };
 		C48F595E1CF2351A00F6F0C1 /* StringFile.txt in Resources */ = {isa = PBXBuildFile; fileRef = C48F595D1CF2351A00F6F0C1 /* StringFile.txt */; };
+		C48F59601CF239BC00F6F0C1 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C48F595F1CF239BC00F6F0C1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,8 +52,8 @@
 		C48F59561CF1E8B900F6F0C1 /* Exercise4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Exercise4ViewController.m; sourceTree = "<group>"; };
 		C48F59581CF22EF700F6F0C1 /* Exercise5ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Exercise5ViewController.h; sourceTree = "<group>"; };
 		C48F59591CF22EF700F6F0C1 /* Exercise5ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Exercise5ViewController.m; sourceTree = "<group>"; };
-		C48F595B1CF230AA00F6F0C1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C48F595D1CF2351A00F6F0C1 /* StringFile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = StringFile.txt; sourceTree = "<group>"; };
+		C48F595F1CF239BC00F6F0C1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +86,7 @@
 		C48F592A1CF1DEC600F6F0C1 /* DebuggingLab */ = {
 			isa = PBXGroup;
 			children = (
-				C48F595B1CF230AA00F6F0C1 /* README.md */,
+				C48F595F1CF239BC00F6F0C1 /* README.md */,
 				C48F594F1CF1E6D400F6F0C1 /* NSMutableArray+OrderUtils.h */,
 				C48F59501CF1E6D400F6F0C1 /* NSMutableArray+OrderUtils.m */,
 				C48F592E1CF1DEC600F6F0C1 /* AppDelegate.h */,
@@ -210,7 +210,7 @@
 				C48F59541CF1E76700F6F0C1 /* NumberGenerator.m in Sources */,
 				C48F594B1CF1E63000F6F0C1 /* Exercise3ViewController.m in Sources */,
 				C48F594E1CF1E64500F6F0C1 /* Exercise2ViewController.m in Sources */,
-				C48F595C1CF230AA00F6F0C1 /* README.md in Sources */,
+				C48F59601CF239BC00F6F0C1 /* README.md in Sources */,
 				C48F59481CF1E2DD00F6F0C1 /* Exercise1ViewController.m in Sources */,
 				C48F59441CF1DF3900F6F0C1 /* ExerciseViewController.m in Sources */,
 				C48F592D1CF1DEC600F6F0C1 /* main.m in Sources */,
